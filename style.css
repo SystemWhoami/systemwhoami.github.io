@@ -228,7 +228,7 @@ img.block-right {
   transition: .15s ease;
   cursor: pointer;
   z-index: 10;
-  background-color: #2F2D33;
+  background-color: #00F53D;
 }
 
 .nav-btn.scroll-bottom {
@@ -287,7 +287,7 @@ img.block-right {
   -webkit-transition: all 0.25s;
   transition: all 0.25s;
   top: 8px;
-  background-color: #000;
+  background-color: #00F53D;
 }
 
 .nav-btn .nav-btn-cover:before {
